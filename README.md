@@ -28,7 +28,7 @@ This project was developed with the following technologies:
 
 - [Access the finished project, online](https://smoothemerson.github.io/Moveis-customizados/)
 
-- Project given by Rocketseat introduce HTML and CSS
+- Project given by Rocketseat to introduce HTML and CSS
 
 ## :memo: License
 
