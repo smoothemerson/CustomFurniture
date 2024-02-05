@@ -1,4 +1,4 @@
-<h1 align="center"> Móveis customizados </h1>
+<h1 align="center"> CustomFurniture </h1>
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="Móveis customizados" src="./github/preview.png" width="100%">
+  <img alt="CustomFurniture" src="./github/preview.png" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -21,6 +21,6 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-- [Access the finished project, online](https://smoothemerson.github.io/Moveis-customizados/)
+- [Access the finished project, online](https://smoothemerson.github.io/CustomFurniture/)
 
 Project given by Rocketseat in Stage 02 of the Explorer Course
